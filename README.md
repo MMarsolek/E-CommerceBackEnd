@@ -9,7 +9,11 @@ This is the backend code for a E-Commerce site. It allows you to view, update, a
 npm test
 
 ## How to use
-Make sure you log into MySQL first to set up the databases. After that you can seed it by running npm seed and launch the server by running npm start.
+Make sure you log into MySQL first to set up the databases. ![image](https://user-images.githubusercontent.com/75141165/153096568-11ba0063-fe0a-48cd-a035-25ee83c34ff0.png)
+ After that you can seed it by running npm seed and launch the server by running npm start.
+ ![image](https://user-images.githubusercontent.com/75141165/153096697-688d4916-354b-426b-98e8-1774fb31cf7b.png)
+![image](https://user-images.githubusercontent.com/75141165/153096732-7da3d28d-64eb-41da-a5d9-b9785f923633.png)
+
 
 ## Dependencies
 npm init should be run first followed by npm i. You can also install the dependencies individually. You will need mysql2, dotenv, express, and sequelize.
